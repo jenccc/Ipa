@@ -12,7 +12,7 @@
       "description": "測試源",
       "iconURL": "https://jenna-su.github.io/trollstore-repo/icons/adblocker.png",
       "trollstorePlugin": true,
-      "url": "https://op.jennas.cc/d/nas/vol2/1000/SP2/ipa/test.ipa?sign=nxm2gGfzW7boRyVVC0T9cK30D7VnExf7d-ePrSt9Vj4=:0",
+      "url": "https://op.jennas.cc/d/nas/vol2/1000/SP2/ipa/test.ipa?sign=nxm2gGfzW7boRyVVC0T9cK30D7VnExf7d-ePrSt9Vj4=:0|test.ipa",
       "size": 24576
     }
   ]
