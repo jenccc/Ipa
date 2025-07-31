@@ -4,16 +4,21 @@
   "description": "提供精選 TrollStore 插件。",
   "version": "1.0",
   "packages": [
+   {
+  "name": "Jen Su's TrollStore 插件源",
+  "identifier": "cc.jennas.repo",
+  "description": "提供精選 TrollStore 插件。",
+  "version": "1.0",
+  "packages": [
     {
-      "name": "廣告屏蔽器",
-      "bundleID": "cc.jennas.adblocker",
+      "name": "測試插件",
+      "bundleID": "cc.jennas.testplugin",
       "developer": "Jen Su",
       "version": "1.0.0",
-      "description": "用於隱藏 LINE 聊天室廣告與推薦卡片。",
-      "iconURL": "https://jenna-su.github.io/trollstore-repo/icons/adblocker.png",
-      "trollstorePlugin": false,
-      "url": "https://github.com/jenccc/Ipa/raw/refs/heads/main/download/test.tipa",
-      "size": 24576
+      "description": "測試用 tipa 檔。",
+      "icon": "https://raw.githubusercontent.com/jenccc/Ipa/main/icon/test.png",
+      "trollstore": true,
+      "url": "https://raw.githubusercontent.com/jenccc/Ipa/main/download/test.tipa"
     }
   ]
 }
