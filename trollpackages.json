@@ -11,7 +11,7 @@
       "version": "1.0.0",
       "description": "用於隱藏 LINE 聊天室廣告與推薦卡片。",
       "iconURL": "https://jenna-su.github.io/trollstore-repo/icons/adblocker.png",
-      "trollstorePlugin": true,
+      "trollstorePlugin": false,
       "url": "https://github.com/jenccc/Ipa/raw/refs/heads/main/download/test.tipa",
       "size": 24576
     }
