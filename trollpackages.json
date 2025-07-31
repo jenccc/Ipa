@@ -1,18 +1,18 @@
 {
   "name": "Jen Ipa Box's TrollStore",
   "identifier": "cc.jennas.repo",
-  "description": "\u63d0\u4f9b\u7cbe\u9009 TrollStore \u63d2\u4ef6\u3002",
+  "description": "\u63d0\u4f9009 TrollStore \u63d2\u4ef6\u3002",
   "version": "1.0",
   "packages": [
     {
-      "name": "\u5e7f\u544a\u5c4f\u853d\u5668",
+      "name": "一鍵註銷",
       "bundleID": "cc.jennas.adblocker",
       "developer": "Jen Su",
       "version": "1.0.0",
-      "description": "\u7528\u4e8e\u9690\u85cf LINE \u804a\u5929\u5ba4\u5e7f\u544a\u4e0e\u63a8\u8350\u5361\u7247\u3002",
+      "description": "測試源",
       "iconURL": "https://jenna-su.github.io/trollstore-repo/icons/adblocker.png",
       "trollstorePlugin": true,
-      "url": "https://jenna-su.github.io/trollstore-repo/plugins/adblocker.tipa",
+      "url": "https://op.jennas.cc/d/nas/vol2/1000/SP2/ipa/test.ipa?sign=nxm2gGfzW7boRyVVC0T9cK30D7VnExf7d-ePrSt9Vj4=:0",
       "size": 24576
     }
   ]
