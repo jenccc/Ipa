@@ -4,12 +4,6 @@
   "description": "提供精選 TrollStore 插件。",
   "version": "1.0",
   "packages": [
-   {
-  "name": "Jen Su's TrollStore 插件源",
-  "identifier": "cc.jennas.repo",
-  "description": "提供精選 TrollStore 插件。",
-  "version": "1.0",
-  "packages": [
     {
       "name": "測試插件",
       "bundleID": "cc.jennas.testplugin",
