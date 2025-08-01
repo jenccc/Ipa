@@ -1,10 +1,10 @@
 {
-    "name": "轻松签源",
+    "name": "Jen Box IPA",
     "identifier": "xyz.yyyue.esign",
     "sourceURL": "https://esign.yyyue.xyz/apps.json",
     "apps": [
         {
-            "name": "Jen Box",
+            "name": "一鍵註銷",
             "bundleIdentifier": "p3.xyz.yyyue.esign",
             "developerName": "yyy",
             "version": "5.0.2",
