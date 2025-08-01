@@ -2,7 +2,7 @@
   "name": "Jen Box IPA",
   "identifier": "xyz.yyyue.esign",
   "sourceURL": "https://ipa.jennas.cc/apps.json",
-  "icon": "https://raw.githubusercontent.com/jenccc/Ipa/main/icons/source-icon.png",
+  "icon": "https://raw.githubusercontent.com/jenccc/Ipa/refs/heads/main/icons/icon.png",
   "apps": [
     {
       "name": "一鍵註銷",
